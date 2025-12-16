@@ -21,7 +21,7 @@ This is especially useful for creating portable builds and solving problems with
 
 ## Download
 - Latest release:
-  https://github.com/USERNAME/REPO/releases
+  https://github.com/exxellengames/MyDW/releases
 
 ## Official Website
 - EN: https://exxellengames.great-site.net/en/
