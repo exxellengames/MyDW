@@ -5,8 +5,8 @@ MyDW is a Windows utility that automatically scans executables and libraries to 
 The tool collects and copies all necessary DLL files into a target directory, allowing applications to run without external system dependencies.
 This is especially useful for creating portable builds and solving problems with missing DLL files.
 
-# Screenshot
-![mydw](https://github.com/user-attachments/assets/f29c0416-ec17-4bc9-a8e8-fb1e19a920a3)
+## Screenshot
+![mydw](https://github.com/user-attachments/assets/ed3e6cc6-fec1-43f6-8f15-e9d800f3ac86)
 
 ## Key Features
 - Automatically scans EXE and DLL files
