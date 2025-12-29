@@ -6,7 +6,7 @@ The tool collects and copies all necessary DLL files into a target directory, al
 This is especially useful for creating portable builds and solving problems with missing DLL files.
 
 ## Screenshot
-![mydw](https://github.com/user-attachments/assets/ed3e6cc6-fec1-43f6-8f15-e9d800f3ac86)
+![mydw](https://github.com/user-attachments/assets/ea07628b-a9d8-4767-9960-d7579b04b63a)
 
 ## Key Features
 - Automatically scans EXE and DLL files
